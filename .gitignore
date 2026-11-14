@@ -1,0 +1,4 @@
+/bot
+*.exe
+coverage.out
+.DS_Store
